@@ -6,6 +6,7 @@ body {
 .avatar {
   width: 150px;
   border-radius: 100px;
+  border: 2px solid;
 }
 
 .card {
